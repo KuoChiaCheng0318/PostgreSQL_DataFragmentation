@@ -11,7 +11,7 @@ RROBIN_TABLE_PREFIX = 'rrobin_part'
 USER_ID_COLNAME = 'userid'
 MOVIE_ID_COLNAME = 'movieid'
 RATING_COLNAME = 'rating'
-INPUT_FILE_PATH = 'D:/Dpath/ASU/2022Fall/CSE511DataProcess/HW3/20221016submitted/test_data.txt'
+INPUT_FILE_PATH = 'test_data.txt'
 ACTUAL_ROWS_IN_INPUT_FILE = 20  # Number of lines in the input file
 
 import psycopg2
