@@ -1,6 +1,6 @@
 # PostgreSQL_DataFragmentation
  Use python to do "range partition", "round robin partition", "round robin insert", "range insert". <br />
- Main python implementation of partition and insert functions are in the Interface.py file. <br />
+ Main python implementation of partition and insert functions are in the [Interface.py](Interface.py) file. <br />
  The program will load "test_data.txt" file to ratings table.	<br />
  <img src="/img/ratingsTable.PNG" alt="Alt text" title="Optional title"> <br />
  
