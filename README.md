@@ -1,5 +1,7 @@
 # PostgreSQL_DataFragmentation
  Developed Python scripts to do "range partition", "range insert", "round-robin partition", "round-robin insert" in PostgreSQL database. <br />
+ range partition will partition data based on the value of data <br />
+ round-robin partition will partition data based on the sequence of data <br />
  Main python implementation of partition and insert functions are in the [Interface.py](Interface.py) file. <br />
  <br />
  The program will load "test_data.txt" file to ratings table.	<br />
